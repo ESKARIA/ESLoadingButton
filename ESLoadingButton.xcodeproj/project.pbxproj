@@ -20,7 +20,6 @@
 		202F44182452311E00E3C75B /* ESIndicatorProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202F440C2452311E00E3C75B /* ESIndicatorProtocol.swift */; };
 		202F44192452311E00E3C75B /* ESLoadingButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202F440D2452311E00E3C75B /* ESLoadingButton.swift */; };
 		202F441A2452311E00E3C75B /* ESExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202F440E2452311E00E3C75B /* ESExtensions.swift */; };
-		202F442224523A4100E3C75B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 202F442024523A4000E3C75B /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +41,7 @@
 		202F441D245232FD00E3C75B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		202F442024523A4000E3C75B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		202F442124523A4000E3C75B /* Package.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
+		202F442424523B8600E3C75B /* ESLoadingButton.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ESLoadingButton.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +61,7 @@
 				202F441D245232FD00E3C75B /* .gitignore */,
 				202F442124523A4000E3C75B /* Package.swift */,
 				202F442024523A4000E3C75B /* README.md */,
+				202F442424523B8600E3C75B /* ESLoadingButton.podspec */,
 				202F441E24523A3500E3C75B /* Sources */,
 				202F43F8245230EE00E3C75B /* Products */,
 			);
@@ -181,7 +182,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				202F442224523A4100E3C75B /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
