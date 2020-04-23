@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:EKLoadingButton.xcodeproj">
+      location = "self:/Users/emil/Projects/Frameworks/EKLoadingButton/ESLoadingButton.xcodeproj">
    </FileRef>
 </Workspace>
